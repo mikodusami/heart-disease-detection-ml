@@ -55,14 +55,6 @@ Model performance metrics and comparisons are documented in `model_results.csv`.
 - pandas, numpy, scikit-learn, matplotlib, seaborn
 - Jupyter
 
-### Installation
-
-```bash
-conda create -n heart-disease python=3.x
-conda activate heart-disease
-pip install -r requirements.txt
-```
-
 ### Running the Notebooks
 
 ```bash
