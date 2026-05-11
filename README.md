@@ -18,21 +18,21 @@ The dataset contains clinical measurements and demographic information with a bi
 
 ## Project Workflow
 
-### 1. Data Cleaning & EDA
-
-**Notebook:** `data-cleaning_eda_preprocessing.ipynb`
-
-- Data quality assessment and cleaning
-- Exploratory data analysis
-- Statistical summaries and visualizations
-
-### 2. Feature Understanding
+### 1. Feature Understanding
 
 **Notebook:** `feature-understanding.ipynb`
 
 - Feature distributions and correlations
 - Identifying key predictors
 - Feature engineering insights
+
+### 2. Data Cleaning & EDA
+
+**Notebook:** `data-cleaning_eda_preprocessing.ipynb`
+
+- Data quality assessment and cleaning
+- Exploratory data analysis
+- Statistical summaries and visualizations
 
 ### 3. Model Training & Evaluation
 
@@ -63,8 +63,8 @@ jupyter notebook
 
 Execute notebooks in order:
 
-1. `data-cleaning_eda_preprocessing.ipynb`
-2. `feature-understanding.ipynb`
+1. `feature-understanding.ipynb`
+2. `data-cleaning_eda_preprocessing.ipynb`
 3. `model-training-evaluation.ipynb`
 
 ## Project Structure
